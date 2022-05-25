@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datascid
+- 👋 Hi, I’m @avilam131
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on any R projects
